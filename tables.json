@@ -1,0 +1,25 @@
+{
+  "tables": [
+    {
+      "id": 1,
+      "name": "Gede",
+      "jabatan": "manager",
+      "tanggal": "17-08-2023",
+      "telp": "08123456789"
+    },
+    {
+      "id": 2,
+      "name": "Gede",
+      "jabatan": "manager",
+      "tanggal": "17-08-2023",
+      "telp": "08123456789"
+    },
+    {
+      "id": "15d3bada267",
+      "name": "surya winata",
+      "jabatan": "man",
+      "tanggal": "2023-02-13",
+      "telp": "086287478483"
+    }
+  ]
+}
